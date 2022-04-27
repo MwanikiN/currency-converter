@@ -4,7 +4,6 @@ of the amount to convert
  """
 from urllib.request import urlopen
 from tkinter import *
-from tkinter import ttk
 import json
 import tkinter as tk
 
